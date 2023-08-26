@@ -5,5 +5,5 @@ Trying to emulate the NES again in Common Lisp
 |---------+----------------------------------------------------------|
 | source  | git:https://github.com/samanthadoran/potential-disco.git |
 | commit  | 0b606c6                                                  |
-| systems | potential-disco                                          |
+| systems | console                                                  |
 |---------+----------------------------------------------------------|
